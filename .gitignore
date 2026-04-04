@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.mcp.json
+*.egg-info/
+dist/
+build/
+.DS_Store
+hires-v1/
+hires-v2/
+dense-v1/
+dense-v2/
