@@ -128,7 +128,7 @@ USER VIDEO
 
 ### Step 1: Clone the repo
 ```bash
-git clone https://github.com/your-org/capcut-ai-director.git
+git clone https://github.com/tashisleepy/capcut-ai-director.git
 cd capcut-ai-director
 ```
 

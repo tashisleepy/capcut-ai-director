@@ -111,7 +111,7 @@ If no mode specified, analyze the video and decide.
 5. Chaos - maximum effects, meme energy
 
 ## Knowledge Base Reference
-Load these from `/Users/user/tashi-workspace/capcut-index/` as needed:
+Load these from the repo's `knowledge-base/` directory as needed:
 - `KF-01-core-ui-navigation.md` - UI panels, shortcuts, navigation paths
 - `KF-02-all-effects.md` - 3,467 video effects + body effects (85 KB)
 - `KF-03-transitions.md` - 2,225 transitions, 13 categories (41 KB)

@@ -23,22 +23,22 @@ Duration: 00:00:01:15 (45 frames)
 Why: Luxury content never starts abruptly. Fade builds anticipation.
 
 00:00:00:00
-Action: Apply color filter - "Warm Cinema"
-Find it: Left panel -> Filters -> Film -> "Warm Cinema"
+Action: Apply color filter - "Gloomy Cinema"
+Find it: Left panel -> Filters -> Film -> "Gloomy Cinema"
 Intensity: 70%
 Why: Establishes the warm, amber tone. Consistent across all shots.
 
 00:00:01:00
 Action: Add lower third - brand name
-Style: Minimal Serif template
-Find it: Left panel -> Text -> Text templates -> Titles -> "Minimal Serif"
+Style: Thin Outline template
+Find it: Left panel -> Text -> Text templates -> Titles -> "Thin Outline"
 Duration: 00:00:03:00 (hold for 3 seconds)
-Animation: Fade up (Left panel -> Animations -> In -> "Fade Up")
+Animation: Fade up (Left panel -> Animations -> In -> "Fade In")
 Why: Brand identification in first 2 seconds. Serif = luxury positioning.
 
 00:00:03:00-00:00:05:00
 Action: Cross dissolve to product close-up
-Find it: Left panel -> Transitions -> Basic -> "Cross Dissolve"
+Find it: Left panel -> Transitions -> Basic -> "Dissolve"
 Duration: 00:00:00:24 (24 frames)
 Alternative: "Light Leak" transition (Left panel -> Transitions -> Camera -> "Light Leak 02")
 Why: Cross dissolve = timeless. Light leak = warmer, more modern.
@@ -63,8 +63,8 @@ Find it: Speed tab -> Standard -> drag to 0.5x
 Why: Product rotation in slow motion. Every detail visible.
 
 00:00:12:00
-Action: Apply "Anamorphic Flare" effect
-Find it: Left panel -> Effects -> Video effects -> Lens -> "Anamorphic Flare 03"
+Action: Apply "Moon Flare" effect
+Find it: Left panel -> Effects -> Video effects -> Lens -> "Moon Flare"
 Intensity: 40%
 Duration: 00:00:01:00
 Why: Single flare as the product catches light. Cinematic, not overdone.
@@ -94,8 +94,8 @@ Why: Final product hero shot. Gentle zoom = confidence.
 
 00:00:22:00
 Action: Add tagline caption
-Style: "Elegant Thin" template
-Find it: Left panel -> Text -> Text templates -> Titles -> "Elegant Thin"
+Style: "Minimal Titles" template
+Find it: Left panel -> Text -> Text templates -> Titles -> "Minimal Titles"
 Animation In: "Typewriter" (Left panel -> Animations -> In -> "Typewriter")
 Why: Tagline appears letter by letter. Premium feel.
 
@@ -108,7 +108,7 @@ Why: Luxury content fades out. Never hard cuts to black.
 00:00:28:00
 Action: Add logo lower third
 Duration: 00:00:02:00
-Animation: "Fade Up" -> hold -> "Fade Down"
+Animation: "Fade In" -> hold -> "Fade Down"
 Why: Final brand mark. Clean exit.
 
 ========================================
@@ -116,7 +116,7 @@ Why: Final brand mark. Clean exit.
 COLOR GRADING NOTES
 
 Apply globally:
-- Filter: "Warm Cinema" at 70% (established in opening)
+- Filter: "Gloomy Cinema" at 70% (established in opening)
 - Adjust -> Brightness: +5
 - Adjust -> Contrast: +10
 - Adjust -> Highlights: -15 (protect blown highlights)
@@ -130,7 +130,7 @@ EDITING REVIEW
 
 Pacing: Cinematic (average change interval: ~4.5s / 135 frames)
 Visual variation: Moderate (2 transitions, 3 zooms, 1 speed ramp)
-Effect count: 3 (Warm Cinema filter, Soft Glow, Anamorphic Flare)
+Effect count: 3 (Gloomy Cinema filter, Soft Glow, Anamorphic Flare)
 Audio: 1 ambient pad (-20dB)
 Text: 2 elements (brand name, tagline)
 Brand consistency: High - single filter, single transition family, serif typography
