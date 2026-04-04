@@ -361,11 +361,7 @@ Why frame-accurate? Because the CapCut timeline displays frames. Direct timecode
 
 ## Pricing & Commercial Use
 
-Built by [Acme Corp](https://example.com) - enterprise AI solutions for ₹$10M+ deployments.
-
 **MIT License** - free for personal and commercial use. Fork, modify, deploy.
-
-**Commercial deployments (white-label, SaaS)?** [Get in touch](mailto:hello@example.com)
 
 ---
 
@@ -387,7 +383,7 @@ Issues, feature requests, and PRs welcome.
 
 ## Credits
 
-- **Brain architecture:** [Tashi](https://twitter.com/tashisleepy), Acme Corp
+- **Brain architecture:** [Tashi](https://github.com/tashisleepy)
 - **CapCut UI mapping:** 101 screen recordings + 193 panel screenshots + expert review feedback
 - **Knowledge files:** Community contributors + CapCut desktop research
 - **Two-stage prompting:** Inspired by frontier AI directing work in commercial production
